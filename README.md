@@ -1,5 +1,19 @@
-# CustomerUI
+# Point of Sale Online and Offline Shop Management Application with Asp.NET Web Api 6 and Angular 16.1.6
 
+
+# User Interface
+# Landing Page:
+In this project user visit this site for buying their required Gadgets. They can search by name, sort by Alphabetical, High to low, Low to high and Filtering by Category, Sub Category and Brand.
+# Product Details:
+If user want to know about the product, they can see the product details.
+# Register & Login:
+In log in page user log in by user name and password if he or she registered. If he or she didn’t registered user then go to the register page.
+Basket: Authenticate user can add any product to their basket from home page, category wise, sub-category wise or brand wise.
+# Checkout:
+To order books user need to go to checkout page. User can order book by giving shipping address and payment details.
+# After a Successful Payment:
+# Order List:
+# Expand View:
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 
 ## Development server
